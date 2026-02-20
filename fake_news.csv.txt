@@ -1,0 +1,3 @@
+text,label
+Government launches new scheme,REAL
+Aliens landed in Karachi,FAKE
